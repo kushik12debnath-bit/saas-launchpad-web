@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kushik12debnath-bit.github.io/saas-launchpad-web/sitemap.xml
